@@ -88,8 +88,6 @@ The system uses linear search to find the corresponding record.
 
 ### Arrays
 
-Arrays are used to store multiple parcel records.
-
 ```java
 int[] parcelId = new int[100];
 String[] customerName = new String[100];
